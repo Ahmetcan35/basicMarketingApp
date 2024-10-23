@@ -1,0 +1,17 @@
+.images {
+    max-width: 300px;
+
+    max-height: 500px;
+    object-fit: contain;
+    border-radius: 50px;
+    /* Görüntüyü orantılı bir şekilde kapsama yapar */
+}
+
+.button-basket {
+    border: none;
+    margin-top: 25px;
+    padding: 10px;
+    background-color: rgb(185, 76, 76);
+    color: #fff;
+    border-radius: 5px;
+}

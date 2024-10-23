@@ -1,0 +1,35 @@
+.header {
+    width: 100vw;
+    background-color: lightgray;
+    padding: 5px;
+    margin-left: calc(-50vw + 50%);
+    padding: 10px 0;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.headerTitle {
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.search-input {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    padding: 5px 10px;
+}
+
+.icons {
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.icons:hover {
+    cursor: pointer;
+}
